@@ -1,0 +1,12 @@
+#app {
+  margin-top: 25px;
+}
+
+.file-label {
+  width: 15rem;
+}
+input[type="file"].hidden {
+  visibility: hidden;
+  width: 15rem;
+  margin-left: -15rem;
+}
